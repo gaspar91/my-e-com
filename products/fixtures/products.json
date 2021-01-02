@@ -1,0 +1,338 @@
+[
+   { 
+      "pk":1,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340155",
+         "name":"Cereus Cactus",
+         "description":"Cereus is a genus of cacti including around 33 species of large columnar cacti from South America. The name is derived from Greek and Latin words meaning 'wax', 'torch' or 'candle'.",
+         "price":12.25,
+         "category":1,
+         "rating":4.6,
+         "image_url":"https://images.unsplash.com/photo-1523467011223-d592538891b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1543&q=80",
+         "image":"001.jpg"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340156",
+         "name":"Haworthia Fasciata",
+         "description":"This succulent is great for your indoor succulent garden. It has thick, dark green leaves with white horizontal stripes on the outside of the leaves. The inside of the leaves are smooth.",
+         "price":19.99,
+         "category":1,
+         "rating":4.6,
+         "image_url":"https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80",
+         "image":"002.jpg"
+    }
+   },
+   {
+      "pk":3,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340157",
+         "name":"Carnation",
+         "description":"Also called grenadines or clove pinks, carnations are herbaceous perennial plants native to the Mediterranean region. They are known to have been used in arts and decor by Greeks and Romans.",
+         "price":9.99,
+         "category":1,
+         "rating":2.6,
+         "image_url":"https://images.unsplash.com/photo-1523213154665-19efef0d633c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+         "image":"003.jpg" 
+    }
+   },
+   {
+      "pk":4,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340158",
+         "name":"Bambu",
+         "description":"Native to Cameroon in West Africa, this shrub wetland species of plant its known for is stability and tranquility.",
+         "price":9.99,
+         "category":1,
+         "rating":1.8,
+         "image_url":"https://images.unsplash.com/photo-1532942505601-2deed650767e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"004.jpg" 
+    }
+   },
+   {
+      "pk":5,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340159",
+         "name":"Bonsai Tree",
+         "description":"A Bonsai tree is a replication of nature, in the form of a miniature tree, without displaying the human intervention too clearly.",
+         "price":39.99,
+         "category":1,
+         "rating":4.8,
+         "image_url":"https://images.unsplash.com/photo-1512428813834-c702c7702b78?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+         "image":"005.jpg" 
+    }
+   },
+   {
+      "pk":6,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp6001340155",
+         "name":"Orchid",
+         "description":"One of the main reasons why people find orchids irresistible is because of their exotic beauty. There are many different orchid varieties but one thing remains the same no matter what they are all extraordinarily stunning.",
+         "price":29.99,
+         "category":1,
+         "rating":4.1,
+         "image_url":"https://images.unsplash.com/photo-1524598171353-ce84a157ed05?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"006.jpg" 
+    }
+   },
+   {
+      "pk":7,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp7001340155",
+         "name":"Tulip",
+         "description":"Artificial bouquet, in/outdoor",
+         "price":9.99,
+         "category":5,
+         "rating":2.1,
+         "image_url":"https://images.unsplash.com/photo-1557308970-df80a9ccee84?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"007.jpg" 
+    }
+   },
+   {
+      "pk":8,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp8001340155",
+         "name":"Sunflower",
+         "description":"Bouquet of artificial sunflower flowers. Beautiful yellow and orange colors",
+         "price":9.99,
+         "category":5,
+         "rating":2.1,
+         "image_url":"https://images.unsplash.com/photo-1573679472180-df7d6cbe22bf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1532&q=80",
+         "image":"008.jpg" 
+    }
+   },
+   {
+      "pk":9,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp9001340155",
+         "name":"Split Philo",
+         "description":"Add a tropical touch to your home décor.",
+         "price":29.99,
+         "category":5,
+         "rating":3.5,
+         "image_url":"https://images.unsplash.com/photo-1525498128493-380d1990a112?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1575&q=80",
+         "image":"009.jpg"
+    }
+   },
+   {
+      "pk":10,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5101340155",
+         "name":"Rose",
+         "description":"Artificial flowers rose bouquet",
+         "price":11.99,
+         "category":5,
+         "rating":2.5,
+         "image_url":"https://images.unsplash.com/photo-1556790989-1f992d023b25?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"010.jpg"
+    }
+   },
+   {
+      "pk":11,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5201340155",
+         "name":"Fiddle Leaf Fig",
+         "description":"Artificial, tall and very popular",
+         "price":31.99,
+         "category":5,
+         "rating":3.8,
+         "image_url":"https://images.unsplash.com/photo-1453904300235-0f2f60b15b5d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1533&q=80",
+         "image":"011.jpg"
+    }
+   },
+   {
+      "pk":12,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5301340155",
+         "name":"Lavender",
+         "description":"Lifelike artificial plant that remain just as fresh-looking year after year.",
+         "price":12.99,
+         "category":5,
+         "rating":2.8,
+         "image_url":"https://images.unsplash.com/photo-1528756514091-dee5ecaa3278?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"012.jpg"
+    }
+   },
+   {
+      "pk":13,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5401340155",
+         "name":"Blue Slim Pot",
+         "description":"Hand crafted from durable ceramic clay with a dynamic blue artisan glaze.",
+         "price":22.99,
+         "category":2,
+         "rating":3.8,
+         "image_url":"https://images.unsplash.com/photo-1529136490842-e2da7a4c7b74?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1495&q=80",
+         "image":"013.jpg"
+    }
+   },
+   {
+      "pk":14,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5501340155",
+         "name":"Raw Ceramic Pot",
+         "description":"It’s time to add a splash of character to your home decor with ceramic pots.",
+         "price":20.99,
+         "category":2,
+         "rating":3.2,
+         "image_url":"https://images.unsplash.com/photo-1435783459217-ee7fe5414abe?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"014.jpg"
+    }
+   },
+   {
+      "pk":15,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5601340155",
+         "name":"Sun Pot",
+         "description":"Bring a drop of sunshine to your indoor or outdoor space in vivid yellow.",
+         "price":18.99,
+         "category":2,
+         "rating":4.2,
+         "image_url":"https://images.unsplash.com/photo-1508369401922-01070c97cb75?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=773&q=80",
+         "image":"015.jpg"
+    }
+   },
+   {
+      "pk":16,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5701340155",
+         "name":"Wooden Pot",
+         "description":"This wooden pot offers the perfect housing for a plant, melding the warmth of carved wood to the refreshing feel of live plants.",
+         "price":28.99,
+         "category":2,
+         "rating":4.9,
+         "image_url":"https://images.unsplash.com/photo-1582131503261-fca1d1c0589f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"016.jpg"
+    }
+   },
+   {
+      "pk":17,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5801340155",
+         "name":"Face Pot",
+         "description":"The unique artistic face flower pot is a fun way to enhance your living or office space.",
+         "price":32.99,
+         "category":2,
+         "rating":4.9,
+         "image_url":"https://images.unsplash.com/photo-1578934691229-08987b226b47?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+         "image":"017.jpg"
+    }
+   },
+   {
+      "pk":18,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5901340155",
+         "name":"Dark Ceramic Pot",
+         "description":"Perfect to break-up a square space and add some visual weight to your planting.",
+         "price":12.99,
+         "category":2,
+         "rating":2.9,
+         "image_url":"https://images.unsplash.com/photo-1554577621-1a3def0b656c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1533&q=80",
+         "image":"018.jpg"
+    }
+   },
+   {
+      "pk":19,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5011340155",
+         "name":"Rope",
+         "description":"Show your plants some love with this simple rope plant hanger.",
+         "price":8.99,
+         "category":6,
+         "rating":2.2,
+         "image_url":"https://images.unsplash.com/photo-1551893133-96981d2df3d3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"019.jpg"
+    }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5021340155",
+         "name":"Little Pumpkins",
+         "description":"Small decorative pumpkins for halloween party.",
+         "price":2.99,
+         "category":6,
+         "rating":3.2,
+         "image_url":"https://images.unsplash.com/photo-1507546485-2b6898da559c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1575&q=80",
+         "image":"020.jpg"
+    }
+   },
+   {
+      "pk":21,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5031340155",
+         "name":"Christmas Wreath",
+         "description":"Decorate your door with this wreath just in time for the hollydays.",
+         "price":18.99,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://images.unsplash.com/photo-1575251059737-36bebdc7b933?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1400&q=80",
+         "image":"021.jpg"
+    }
+   },
+   {
+      "pk":22,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5041340155",
+         "name":"Box Shelf",
+         "description":"Decorate your walls with some greenery.",
+         "price":14.99,
+         "category":6,
+         "rating":3.5,
+         "image_url":"https://images.unsplash.com/photo-1519393085459-be21f89585f1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+         "image":"022.jpg"
+    }
+   },
+   {
+      "pk":23,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5051340155",
+         "name":"Glass Jar Decó",
+         "description":"This container is perfect if you want a minimalistic style room.",
+         "price":4.99,
+         "category":6,
+         "rating":1.5,
+         "image_url":"https://images.unsplash.com/photo-1496678518751-46244eef08c4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80",
+         "image":"023.jpg"
+    }
+   },
+   {
+      "pk":24,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5061340155",
+         "name":"Pebbles",
+         "description":"Filling your plants with these pebbles will bring some nature inside of your living space.",
+         "price":3.99,
+         "category":6,
+         "rating":1.5,
+         "image_url":"https://images.unsplash.com/photo-1514343510658-944a6ae9f3e1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80",
+         "image":"024.jpg"
+    }
+   }
+]
