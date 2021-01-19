@@ -51,7 +51,6 @@ INSTALLED_APPS = [
 
     # Other
     'crispy_forms',
-    'storages',
 ]
 
 MIDDLEWARE = [
@@ -62,6 +61,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'my_e_com.urls'
