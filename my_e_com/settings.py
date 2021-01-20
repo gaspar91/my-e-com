@@ -186,7 +186,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
 MEDIA_ROOT = "static/media/"
-MEDIA_URL = '/media/'
+MEDIA_URL = ''
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
