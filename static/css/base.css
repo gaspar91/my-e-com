@@ -34,12 +34,22 @@ i.fab.fa-pagelines{
     background: #718a66;
     color: white;
     min-width: 260px;
+    border-radius: 50px;
 
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
     
+}
+
+.search{
+    border-radius: 50px;
+}
+
+i.fas.fa-user.fa-lg,
+i.fas.fa-shopping-bag.fa-lg{
+    color: #718a66;
 }
 
 .btn-black {
