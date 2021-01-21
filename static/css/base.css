@@ -7,7 +7,7 @@ body {
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
-    font-family: 'Lato';
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* from Bulma */
@@ -27,21 +27,36 @@ body {
     width: fit-content;
 }
 
+i.fab.fa-pagelines{
+    color: #718a66;
+}
+
 .shop-now-button {
-    background: black;
+    background: #718a66;
     color: white;
     min-width: 260px;
+
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    
 }
 
 .btn-black {
-    background: black;
+    background: #718a66;
     color: white;
+
+     transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 .btn-outline-black {
     background: white;
-    color: black !important; /* use important to override link colors for <a> elements */
-    border: 1px solid black;
+    color: #718a66 !important;
+    border: 1px solid #718a66;
 }
 
 .shop-now-button:hover,
@@ -50,8 +65,9 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
-    color: white;
+    background: white;
+    color: #718a66;
+    border: 1px solid #718a66;
 }
 
 .text-black {
@@ -59,11 +75,11 @@ body {
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid #718a66 !important;
 }
 
 .bg-black {
-    background: #000 !important;
+    background: #718a66 !important;
 }
 
 .overlay {
